@@ -1,0 +1,12 @@
+@AuthAPI.Application_HostAddress = http://localhost:5284
+
+POST {{AuthAPI.Application_HostAddress}}/api/Users
+Accept: application/json
+{
+  "PhoneNumber":{
+    "RegionCode":"+86"£¬
+    "Number":"13505673566"
+  }
+  "password":"124325degre";
+}
+###
