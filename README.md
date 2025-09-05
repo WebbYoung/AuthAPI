@@ -1,3 +1,8 @@
-///AuthAPI
-//DDD+EntityFramwork WebAPI开发实战:
-//支持用户手机号登录，注册，短信验证码
+# AuthAPI  
+
+**DDD + Entity Framework WebAPI 开发实战**  
+
+## 功能支持
+- 用户手机号登录  
+- 用户注册  
+- 短信验证码  
